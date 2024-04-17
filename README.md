@@ -1,6 +1,6 @@
 # idcaboutprivacy
 
-## Privacy: the foundation to all other human rights
+## Privacy: the foundation of all other human rights
 Don't think you need privacy, huh? Think again.
 
 Privacy because protects our freedom to be who we are. It stops people from using our personal information in ways we don't want. It stops bad actors from hurting us or the ones we love. Without privacy, we have no control over our lives.
