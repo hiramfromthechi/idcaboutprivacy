@@ -12,7 +12,7 @@ Privacy because protects our freedom to be who we are. It stops people from usin
 - [Privacy and why it matters](https://privacy.uw.edu/reference-materials/privacy-matters/)
 
 
-## Situations where a lack of privacy has real-life consequences
+## A never-ending list of situations where a lack of privacy has real-life consequences
 1. [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
 2. [WhatsApp Moderators Can Read Your Messages](https://gizmodo.com/whatsapp-moderators-can-read-your-messages-1847629241)
 3. [Scammers are targeting teenage boys on social media—and driving some to suicide.](https://www.bloomberg.com/features/2024-sextortion-teen-suicides/)
