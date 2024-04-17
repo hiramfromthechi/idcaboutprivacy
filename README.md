@@ -54,3 +54,4 @@ Privacy because protects our freedom to be who we are. It stops people from usin
 37. [Fake Cisco Webex Google Ads abuse tracking templates to push malware](https://www.bleepingcomputer.com/news/security/fake-cisco-webex-google-ads-abuse-tracking-templates-to-push-malware/)
 38. [Stalker 'found Japanese singer through reflection in her eyes'](https://www.bbc.com/news/world-asia-50000234)
 39. [Colorado Supreme Court Upholds Keyword Search Warrant - a digital dragnet tool that allows law enforcement to identify everyone who searched the internet for a specific term or phrase.](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
+40. [They criticized Israel. This Twitter account upended their lives.](https://www.washingtonpost.com/technology/2024/04/16/stop-antisemitism-twitter-zionism-israel/)
