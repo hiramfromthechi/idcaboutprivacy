@@ -56,3 +56,4 @@ Privacy because protects our freedom to be who we are. It stops people from usin
 39. [Colorado Supreme Court Upholds Keyword Search Warrant - a digital dragnet tool that allows law enforcement to identify everyone who searched the internet for a specific term or phrase.](https://www.eff.org/deeplinks/2023/10/colorado-supreme-court-upholds-keyword-search-warrant)
 40. [They criticized Israel. This Twitter account upended their lives.](https://www.washingtonpost.com/technology/2024/04/16/stop-antisemitism-twitter-zionism-israel/)
 41. [How Political Campaigns Use Your Data to Target You, and What You Can Do to Protect Your Privacy](https://www.eff.org/deeplinks/2024/04/how-political-campaigns-use-your-data-target-you)
+42. [To Address Online Harms, We Must Consider Privacy First](https://www.eff.org/deeplinks/2023/11/address-online-harms-we-must-first-do-privacy)
