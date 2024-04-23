@@ -57,3 +57,4 @@ Privacy because protects our freedom to be who we are. It stops people from usin
 40. [They criticized Israel. This Twitter account upended their lives.](https://www.washingtonpost.com/technology/2024/04/16/stop-antisemitism-twitter-zionism-israel/)
 41. [How Political Campaigns Use Your Data to Target You, and What You Can Do to Protect Your Privacy](https://www.eff.org/deeplinks/2024/04/how-political-campaigns-use-your-data-target-you)
 42. [To Address Online Harms, We Must Consider Privacy First](https://www.eff.org/deeplinks/2023/11/address-online-harms-we-must-first-do-privacy)
+43. [Instagram Advertises Nonconsensual AI Nude Apps](https://www.404media.co/instagram-advertises-nonconsensual-ai-nude-apps/)
