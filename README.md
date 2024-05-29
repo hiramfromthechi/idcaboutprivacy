@@ -14,7 +14,7 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 - [Privacy and why it matters](https://privacy.uw.edu/reference-materials/privacy-matters/)
 
 
-## Here's the proof: a never-ending list of situations where a lack of privacy has real-life consequences
+## Need proof? Here's an ever-growing list of situations where a lack of privacy has real-life consequences
 1. [UK woman mistaken as shoplifter by Facewatch, now she's banned from all stores with facial recognition tech](https://www.ibtimes.co.uk/uk-woman-mistaken-shoplifter-facewatch-now-shes-banned-all-stores-facial-recognition-tech-1724785)
 2. [Data-Hungry Dating Apps Are Worse Than Ever for Your Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
 3. [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
