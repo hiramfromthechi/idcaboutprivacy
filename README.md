@@ -12,6 +12,7 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 - [Why Does Privacy Matter? One Scholar's Answer](https://www.theatlantic.com/technology/archive/2013/02/why-does-privacy-matter-one-scholars-answer/273521/)
 - [10 Reasons Why Privacy Matters](https://teachprivacy.com/10-reasons-privacy-matters/)
 - [Privacy and why it matters](https://privacy.uw.edu/reference-materials/privacy-matters/)
+- [Protecting Yourself on Social Networks](https://ssd.eff.org/module/protecting-yourself-social-networks)
 
 
 ## Need proof? Here's an ever-growing list of situations where a lack of privacy has real-life consequences
