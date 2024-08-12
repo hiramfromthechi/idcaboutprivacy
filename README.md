@@ -67,3 +67,5 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 49. [How Political Campaigns Use Your Data to Target You, and What You Can Do to Protect Your Privacy](https://www.eff.org/deeplinks/2024/04/how-political-campaigns-use-your-data-target-you)
 50. [To Address Online Harms, We Must Consider Privacy First](https://www.eff.org/deeplinks/2023/11/address-online-harms-we-must-first-do-privacy)
 51. [Instagram Advertises Nonconsensual AI Nude Apps](https://www.404media.co/instagram-advertises-nonconsensual-ai-nude-apps/)
+52. [Microsoft’s Copilot Studio AI leaks your business info internally and externally](https://pivot-to-ai.com/2024/08/10/microsofts-copilot-studio-ai-leaks-your-business-info-internally-and-externally/)
+
