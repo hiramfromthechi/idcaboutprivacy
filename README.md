@@ -69,4 +69,4 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 52. [Instagram Advertises Nonconsensual AI Nude Apps](https://www.404media.co/instagram-advertises-nonconsensual-ai-nude-apps/)
 53. [Microsoft’s Copilot Studio AI leaks your business info internally and externally](https://pivot-to-ai.com/2024/08/10/microsofts-copilot-studio-ai-leaks-your-business-info-internally-and-externally/)
 54. [Snapchat Reserves the Right to Use AI-Generated Images of Your Face in Ads](https://www.404media.co/snapchat-reserves-the-right-to-use-ai-generated-images-of-your-face-in-ads/)
-
+55. [Google and Meta struck secret ads deal to target teenagers](https://www.ft.com/content/b3bb80f4-4e01-4ce6-8358-f4f8638790f8)
