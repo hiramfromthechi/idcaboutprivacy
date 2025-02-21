@@ -17,11 +17,12 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 
 ## Need proof? Here's an ever-growing list of situations where a lack of privacy has real-life consequences
 1. [Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster.](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
-2. [UK woman mistaken as shoplifter by Facewatch, now she's banned from all stores with facial recognition tech](https://www.ibtimes.co.uk/uk-woman-mistaken-shoplifter-facewatch-now-shes-banned-all-stores-facial-recognition-tech-1724785)
-3. [Students Target Teachers in Group TikTok Attack, Shaking Their School](https://www.nytimes.com/2024/07/06/technology/tiktok-fake-teachers-pennsylvania.html)
-4. [Data-Hungry Dating Apps Are Worse Than Ever for Your Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
-5. [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
-6. [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
+2. [Apple Pulls Encrypted iCloud Security Feature in UK Amid Government Backdoor Demands](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/)
+3. [UK woman mistaken as shoplifter by Facewatch, now she's banned from all stores with facial recognition tech](https://www.ibtimes.co.uk/uk-woman-mistaken-shoplifter-facewatch-now-shes-banned-all-stores-facial-recognition-tech-1724785)
+4. [Students Target Teachers in Group TikTok Attack, Shaking Their School](https://www.nytimes.com/2024/07/06/technology/tiktok-fake-teachers-pennsylvania.html)
+5. [Data-Hungry Dating Apps Are Worse Than Ever for Your Privacy](https://foundation.mozilla.org/en/privacynotincluded/articles/data-hungry-dating-apps-are-worse-than-ever-for-your-privacy/)
+6. [Apple’s Photo Bug Exposes the Myth of ‘Deleted’](https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/)
+7. [Meta-provided Facebook chats led a woman to plead guilty to abortion-related charges](https://www.theverge.com/2023/7/11/23790923/facebook-meta-woman-daughter-guilty-abortion-nebraska-messenger-encryption-privacy)
 8. [WhatsApp Moderators Can Read Your Messages](https://gizmodo.com/whatsapp-moderators-can-read-your-messages-1847629241)
 9. [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
 10. [Scammers are targeting teenage boys on social media—and driving some to suicide.](https://www.bloomberg.com/features/2024-sextortion-teen-suicides/)
