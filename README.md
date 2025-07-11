@@ -17,7 +17,7 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 
 ## Need proof? Here's an ever-growing list of situations where a lack of privacy has real-life consequences.
 1. [WhatsApp provides no cryptographic management for group messages](https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/)
-2. ["The Worst Internet-Research Ethics Violation I Have Ever Seen" | The most persuasive “people” on a popular subreddit turned out to be a front for a secret AI experiment](https://www.theatlantic.com/technology/archive/2025/05/reddit-ai-persuasion-experiment-ethics/682676/?gift=tIHyeEUg4NM6vyxJ-5M0EDGiO0gaoHM4wNuA8kSnr58)
+2. ['The Worst Internet-Research Ethics Violation I Have Ever Seen'. The most persuasive “people” on a popular subreddit turned out to be a front for a secret AI experiment](https://www.theatlantic.com/technology/archive/2025/05/reddit-ai-persuasion-experiment-ethics/682676/?gift=tIHyeEUg4NM6vyxJ-5M0EDGiO0gaoHM4wNuA8kSnr58)
 3. [Facebook Allegedly Detected When Teen Girls Deleted Selfies So It Could Serve Them Beauty Ads](https://futurism.com/facebook-beauty-targeted-ads)
 4. [Wife of Kilmar Abrego Garcia moves to safe house after DHS posts address online](https://www.independent.co.uk/news/world/americas/us-politics/kilmar-abrego-garcia-wife-safe-house-b2738214.html)
 5. [UK creating ‘murder prediction’ tool to identify people most likely to kill](https://www.theguardian.com/uk-news/2025/apr/08/uk-creating-prediction-tool-to-identify-people-most-likely-to-kill)
