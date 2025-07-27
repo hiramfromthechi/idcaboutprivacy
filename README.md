@@ -16,7 +16,7 @@ Privacy protects our freedom to be who we are. It stops people from using our pe
 
 
 ## Need proof? Here's an ever-growing list of situations where a lack of privacy has real-life consequences.
-1.[Reddit users in the UK must now upload selfies to access NSFW subreddits](https://mashable.com/article/reddit-age-verification-check-uk-law-online-safety) [Discussion](https://lemmy.world/post/33128208)
+1. [Reddit users in the UK must now upload selfies to access NSFW subreddits](https://mashable.com/article/reddit-age-verification-check-uk-law-online-safety) [Discussion](https://lemmy.world/post/33128208)
 2. [WhatsApp provides no cryptographic management for group messages](https://arstechnica.com/security/2025/05/whatsapp-provides-no-cryptographic-management-for-group-messages/)
 3. ['The Worst Internet-Research Ethics Violation I Have Ever Seen'. The most persuasive “people” on a popular subreddit turned out to be a front for a secret AI experiment](https://www.theatlantic.com/technology/archive/2025/05/reddit-ai-persuasion-experiment-ethics/682676/?gift=tIHyeEUg4NM6vyxJ-5M0EDGiO0gaoHM4wNuA8kSnr58)
 4. [Facebook Allegedly Detected When Teen Girls Deleted Selfies So It Could Serve Them Beauty Ads](https://futurism.com/facebook-beauty-targeted-ads)
